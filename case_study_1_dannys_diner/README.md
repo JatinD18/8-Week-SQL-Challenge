@@ -69,8 +69,4 @@ The output is a set of production-grade SQL queries that demonstrate the techniq
 
 Each query lives in [`02_business_solutions.sql`](./02_business_solutions.sql).
 
-### Q1. Total amount each customer spent at the restaurant
-```sql
-SELECT s.customer_id, SUM(m.price) AS total_spent
-FROM sales s JOIN menu m ON s.product_id = m.product_id
-GROUP BY s.customer_id;
+---
