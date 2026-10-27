@@ -67,6 +67,6 @@ The output is a set of production-grade SQL queries that demonstrate the techniq
 
 ## ❓ The 10 Business Questions & Solution Summaries
 
-Each query lives in [`02_business_solutions.sql`](./02_business_solutions.sql).
+Each query and dashboard-ready audit table lives in [`02_business_solutions.sql`](./02_business_solutions.sql).
 
 ---
