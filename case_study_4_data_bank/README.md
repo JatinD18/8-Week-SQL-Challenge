@@ -1,4 +1,4 @@
-<div align=center">
+<div align="center">
 
 # 🏦 Case Study #4 — Data Bank
 
