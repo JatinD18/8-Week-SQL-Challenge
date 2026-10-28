@@ -2,7 +2,7 @@
 
 # 🏦 Case Study #4 — Data Bank
 
-### Part of the [8-Week SQL Challenge](https://8weeksqlchallenge.com/) by Danny Ma · Solved end-to-end in **MySQL 8.0**
+### Part of the [8-Week SQL Challenge](https://8weeksqlchallenge.com/case-study-3/) by Danny Ma · Solved end-to-end in **MySQL 8.0**
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Sections-A%20B%20C%20%2B%20follow--ups-brightgreen)
