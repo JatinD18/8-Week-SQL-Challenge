@@ -9,6 +9,7 @@
 ![Queries](https://img.shields.io/badge/Queries-35%2B-blue)
 
 </div>
+
 ---
 
 ## 🎯 Business Problem
