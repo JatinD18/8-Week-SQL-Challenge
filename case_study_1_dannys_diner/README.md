@@ -2,6 +2,7 @@
 
 # 🍜 Case Study #1: Danny's Diner
 
+### Part of the [8-Week SQL Challenge](https://8weeksqlchallenge.com/) by Danny Ma · Solved end-to-end in **MySQL 8.0**
 ### A restaurant customer-behaviour analysis using advanced SQL — CTEs, window functions, and conditional aggregation
 
 ![MySQL](https://img.shields.io/badge/Database-MySQL%208.0-4479A1?logo=mysql&logoColor=white)
